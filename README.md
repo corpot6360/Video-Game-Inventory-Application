@@ -1,1 +1,1 @@
-# SDC330
+# Video Game Inventory Application
