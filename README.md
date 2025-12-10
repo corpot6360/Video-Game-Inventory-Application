@@ -11,6 +11,7 @@ Designing and implementing relational database schema
 
 ## Language Used
 Java
+SQLite
 
 ## Link to Project
 https://github.com/corpot6360/Video-Game-Inventory-Application
